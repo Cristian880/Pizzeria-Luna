@@ -123,3 +123,6 @@ Hecho con 🍕 y muchas tazas de café por **Cristian**
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cristian880)
 
 </div>
+<div align="center">
+esto es una prueba de push hacia el main, provando denegacion y pull request 
+</div>
