@@ -1,0 +1,38 @@
+# Dependencias
+node_modules/
+.pnpm-store/
+
+# Builds
+dist/
+build/
+.turbo/
+*.tsbuildinfo
+
+# Variables de entorno (NUNCA subir esto)
+.env
+.env.local
+.env.*.local
+
+# Python (apps/ai-service)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# Editor / OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Prisma
+apps/api/prisma/migrations/dev.db
+
+# Coverage / tests
+coverage/
