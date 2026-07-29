@@ -124,6 +124,4 @@ Hecho con 🍕 y muchas tazas de café por **Cristian**
 
 </div>
 
-<div align="center">
-esto es una prueba de push hacia el main, provando denegacion y pull request 
-</div>
+
