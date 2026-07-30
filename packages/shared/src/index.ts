@@ -1,0 +1,1 @@
+export type UserRole = "cliente" | "mesero" | "cocinero" | "repartidor" | "gerente" | "admin_general";
